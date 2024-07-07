@@ -6,7 +6,7 @@ import Build from './Build'
 import Contact from './Contact'
 import LatestNews from './News';
 import Shop from './Shop';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 
 function App() {
   return (
