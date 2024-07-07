@@ -1,7 +1,7 @@
 const Foot = () => {
     return ( 
         <nav className="foot">
-            <a href="/">MechanicalKeyboardsPro</a>
+            <a href="/MechanicalKeyboardsPro">MechanicalKeyboardsPro</a>
             <div className="linksfoot"></div>
             <a href="/Shop">Shop Keyboards</a>
             <a href="/LatestNews">Latest news</a>

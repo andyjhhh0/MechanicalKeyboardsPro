@@ -1,7 +1,7 @@
 const Navbar = () => {
     return ( 
         <nav className="navbar">
-            <a href="/" style={{
+            <a href="/MechanicalKeyboardsPro" style={{
                 fontSize: 30,
             }}>MechanicalKeyboardsPro</a>
             <div className="links"></div>
