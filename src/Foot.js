@@ -1,12 +1,14 @@
+import { Link } from "react-router-dom";
+
 const Foot = () => {
     return ( 
         <nav className="foot">
-            <a href="/MechanicalKeyboardsPro">MechanicalKeyboardsPro</a>
+            <li><Link to="/MechanicalKeyboardsPro">MechanicalKeyboardsPro</Link></li>
             <div className="linksfoot"></div>
-            <a href="/Shop">Shop Keyboards</a>
-            <a href="/LatestNews">Latest news</a>
-            <a href="/Build">Build your own keyboard</a>
-            <a href="/Contact">Contact Us</a>
+            <li><Link to="/Shop">Shop Keyboards</Link></li>
+            <li><Link to="/LatestNews">Latest News</Link></li>
+            <li><Link to="/Contact">Contact Us</Link></li>
+            <li><Link to="/LogIn">Log Out</Link></li>
         </nav>
      );
 }
