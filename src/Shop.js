@@ -1,4 +1,5 @@
 
+import { Link } from "react-router-dom";
 import keyboardOneImage from './images/image1.jpg';
 import keyboardTwoImage from './images/image2.jpg';
 
@@ -58,7 +59,7 @@ const Shop = () => {
               <div className="card1-body">
                 <h5 className="card1-title">{`Keyboard ${index + 1}`}</h5>
                 <p className="card1-text">Description of keyboard {index + 1}.</p>
-                <a href="/" className="btn btn-danger">Shop Now</a>
+                <li><Link to="/Shop">Shop Now</Link></li>
               </div>
             </div>
           ))}
