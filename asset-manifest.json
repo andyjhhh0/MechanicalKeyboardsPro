@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/MechanicalKeyboardsPro/static/css/main.320ebfca.css",
-    "main.js": "/MechanicalKeyboardsPro/static/js/main.c687f98a.js",
+    "main.css": "/MechanicalKeyboardsPro/static/css/main.4939644a.css",
+    "main.js": "/MechanicalKeyboardsPro/static/js/main.aa8afab0.js",
     "static/media/image1.jpg": "/MechanicalKeyboardsPro/static/media/image1.16fde62465b34afc3bf2.jpg",
     "static/media/image2.jpg": "/MechanicalKeyboardsPro/static/media/image2.053fab9fa4e33fda3b14.jpg",
     "static/media/background.jpg": "/MechanicalKeyboardsPro/static/media/background.e57e619393fc9c3c2680.jpg",
     "index.html": "/MechanicalKeyboardsPro/index.html",
-    "main.320ebfca.css.map": "/MechanicalKeyboardsPro/static/css/main.320ebfca.css.map",
-    "main.c687f98a.js.map": "/MechanicalKeyboardsPro/static/js/main.c687f98a.js.map"
+    "main.4939644a.css.map": "/MechanicalKeyboardsPro/static/css/main.4939644a.css.map",
+    "main.aa8afab0.js.map": "/MechanicalKeyboardsPro/static/js/main.aa8afab0.js.map"
   },
   "entrypoints": [
-    "static/css/main.320ebfca.css",
-    "static/js/main.c687f98a.js"
+    "static/css/main.4939644a.css",
+    "static/js/main.aa8afab0.js"
   ]
 }
